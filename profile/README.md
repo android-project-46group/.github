@@ -28,8 +28,12 @@ api サーバーで配信する情報を収集するクローラーです。
 - BeautifulSoup
 - requests
 
-## [ios](https://github.com/android-project-46group/ios)
+## [ios (WIP)](https://github.com/android-project-46group/ios)
 
-iOS のアプリです（作成途中）。
+iOS のアプリです。
 
 - SwiftUI
+
+## [docs (WIP)](https://github.com/android-project-46group/docs)
+
+ドキュメント（更新予定）。
