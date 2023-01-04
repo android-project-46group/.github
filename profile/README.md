@@ -12,6 +12,7 @@
 - Retrofit2
 - Room
 - DataStore
+- multi-module
 
 ## [api-server](https://github.com/android-project-46group/api-server)
 
