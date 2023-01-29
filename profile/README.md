@@ -29,6 +29,12 @@ api サーバーで配信する情報を収集するクローラーです。
 - BeautifulSoup
 - requests
 
+## [sgi-cli](https://github.com/android-project-46group/sgi-cli)
+
+[api-server](https://github.com/android-project-46group/api-server) の cli ツールです。
+
+- cobra
+
 ## [ios (WIP)](https://github.com/android-project-46group/ios)
 
 iOS のアプリです。
