@@ -20,6 +20,17 @@ api サーバーです。
 
 - Golang
 - ラズパイ
+- [protobuf](https://github.com/android-project-46group/protobuf)
+- [open-api](https://github.com/android-project-46group/open-api)
+
+## [core-api](https://github.com/android-project-46group/core-api)
+
+api サーバーから gRPC でアクセスされることを期待してます。
+
+protobuf は[こちらのリポジトリ](https://github.com/android-project-46group/protobuf)で定義されてます。
+
+- Golang
+- gRPC
 
 ## [api](https://github.com/android-project-46group/api)
 
